@@ -1,0 +1,334 @@
+[
+    {
+        "main_plant": "['fruit trees', 'nightshades', 'tomatoes', 'capsicum','peppers', 'potatoes', 'brassicas', 'carrots']",
+        "helper_plant": "alliums",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['tomatoes', 'parsley']",
+        "helper_plant": "asparagus",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['cucumbers', 'strawberries']",
+        "helper_plant": "bush beans",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['broccoli', 'bush beans', 'cabbages', 'lettuce', 'kohlrabi', 'onions', 'brassicas', 'passion fruit']",
+        "helper_plant": "beets",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['beets', 'onions', 'potatoes', 'corn', 'wheat']",
+        "helper_plant": "brassicas",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['lettuce']",
+        "helper_plant": "broccoli",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'celery']",
+        "helper_plant": "cabbage",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['tomatoes', 'alliums', 'bush beans', 'leeks', 'lettuce', 'onions', 'passion fruit']",
+        "helper_plant": "carrots",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'celery', 'spinach', 'peas']",
+        "helper_plant": "cauliflower",
+        "plant_type": "vegetable"
+    }, 
+    {
+        "main_plant": "['bush beans', 'brassicas', 'cucumbers']",
+        "helper_plant": "celery",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['brassicas', 'passion fruit']",
+        "helper_plant": "chard",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans, 'cucurbits', 'soybeans', 'tomatoes']",
+        "helper_plant": "corn",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'cucurbits', 'soybeans', tomatoes]",
+        "helper_plant": "maize",
+        "plant_type": "vegetable"
+    }, 
+    {
+        "main_plant": "['bush beans', 'kohlrabi', 'lettuce']",
+        "helper_plant": "cucumber",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['corn']",
+        "helper_plant": "cucurbits",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'peppers', 'tomatoes', 'passion fruit']",
+        "helper_plant": "eggplant",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'peppers', 'tomatoes', 'passion fruit']",
+        "helper_plant": "aubergine",
+        "plant_type": "vegetable"
+    }, 
+    {
+        "main_plant": "['onions', 'beets', 'cucumbers']",
+        "helper_plant": "kohlrabi",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['carrots', 'celery', 'onions', 'tomatoes', 'passion fruit']",
+        "helper_plant": "leek",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['beets', 'lettuce', 'okra', 'potatoes', 'spinach', 'dill', 'cabbages', 'carrots', 'chards', 'eggplant', 'peas', 'tomatoes', 'brassicas', 'corn', 'cucumbers', 'grapes']",
+        "helper_plant": "legumes",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['beets', 'bush beans', 'okra', 'onions', 'radishes' 'broccoli', 'carrots', 'passon fruit']",
+        "helper_plant": "lettuce",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'broccoli' ,cabbages', 'cauliflower', 'fruit trees', 'grapes', 'radishes', 'brussels', 'turnips']",
+        "helper_plant": "mustard",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['sweet potatoes', 'tomatoes', 'peppers']",
+        "helper_plant": "okra",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['beets', 'brassicas', 'cabbages', 'broccoli', 'carrots', 'lettuce', 'cucumbers', 'peppers', 'passion fruit', 'strawberries', 'green onions', 'chinese cabbage']",
+        "helper_plant": "onions",
+        "plant_type": "vegetable"
+    }, 
+    {
+        "main_plant": "['fruit trees']",
+        "helper_plant": "parsnip",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['brassicas', 'turnips', 'cauliflower', 'garlic']",
+        "helper_plant": "bush beans",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['okra']",
+        "helper_plant": "peppers",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['brassicas', 'bush beans', 'corn', 'peas', 'passon fruit']",
+        "helper_plant": "potato",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['corn', 'bush beans']",
+        "helper_plant": "pumpkin",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['squash', 'eggplant', 'cucumbers', 'lettuce', 'peas', 'bush beans', 'pole beans']",
+        "helper_plant": "radish",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['brassicas', 'cauliflower', 'passion fruit']",
+        "helper_plant": "spinach",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['corn', 'bush beans', 'pole beans', 'okra']",
+        "helper_plant": "squash",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['okra']",
+        "helper_plant": "sweet potato",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['celery', 'roses', 'peppers', asparagus']",
+        "helper_plant": "tomatoes",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['peas', 'broccoli']",
+        "helper_plant": "turnips",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['peas', 'broccoli']",
+        "helper_plant": "rutabagas",
+        "plant_type": "vegetable"
+    },
+    {
+        "main_plant": "['bush beans', 'lettuce', 'onions', 'spinach', 'passion fruit']",
+        "helper_plant": "strawberries",
+        "plant_type": "fruits"
+    },
+    {
+        "main_plant": "['tomatoes', 'peppers', 'oregano', 'asparagus', 'petunias', grapes']",
+        "helper_plant": "basil",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['bush beans', 'pole beans', 'strawberries', 'cucurbits', 'cucumbers', 'squash', 'fruit trees', 'tomatoes', 'cabbages']",
+        "helper_plant": "borage",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['strawberries']",
+        "helper_plant": "caraway",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['eggplants']",
+        "helper_plant": "catnip",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['anise', 'basil', 'borage', 'caraway', 'catnip', 'chervil', 'chives', 'cilantro, 'corier', 'dill', 'fennel', 'flax', 'garlic', 'hyssop', 'lavender', 'lemon grass', 'lovage', 'oregano', 'parsley', 'peppermint', 'rosemary', 'sage', 'southernwood', 'spearmint', 'stinging nettle', 'summer savory', 'tarragon', 'thyme', 'wormwood', 'yarrow', 'brassicas', 'cucumbers', 'wheat', 'onions', 'cabbages']",
+        "helper_plant": "chamomile",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['radishes', 'lettuce', 'broccoli']",
+        "helper_plant": "chervil",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['apples', 'carrots', 'grapes', 'roses', 'tomatoes', 'brassicas', 'broccoli', 'cabbages', 'mustard']",
+        "helper_plant": "chives",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['anise', 'cabbages', 'spinach', 'lettuce', 'tomatoes']",
+        "helper_plant": "cilantro",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['anise', 'cabbages', 'spinach', 'lettuce', 'tomatoes']",
+        "helper_plant": "coriander",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'broccoli', 'cabbages', 'corn', 'eggplant', 'aubergine', 'fennel', 'lettuce', 'onions', 'cucumbers']",
+        "helper_plant": "dill",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['dill']",
+        "helper_plant": "fennel",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['carrots', 'potatoes']",
+        "helper_plant": "carrots",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['vetch', 'brassicas', 'beets', 'roses', 'tomatoes', 'cucumbers', 'lettuce', 'celery', 'peas', 'potatoes']",
+        "helper_plant": "garlic",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'cabbages', 'grapes']",
+        "helper_plant": "hyssop",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['chamomile', 'lettuce', 'brassicas', 'onions', 'tomatoes', 'oregano', 'thyme', 'marjoram', 'sage', 'rosemary', 'basil', 'lemon balm', 'squash']",
+        "helper_plant": "lavender",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['eggplant']",
+        "helper_plant": "lemon grass",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['bush beans', 'pole beans']",
+        "helper_plant": "lovage",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['grapes', 'tomatoes', 'peppers', 'pumpkins']",
+        "helper_plant": "oregano",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['asparagus', 'corn', 'maize', 'tomatoes']",
+        "helper_plant": "parsley",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['alliums', 'brassicas', 'cabbages', 'peas', tomatoes']",
+        "helper_plant": "peppermint",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['cabbages', 'bush beans', 'pole beans', 'brassicas', 'carrots', 'thyme']",
+        "helper_plant": "rosemary",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'rosemary', 'cabbages', 'bush beans' 'pole beans', 'brussels sprouts', 'carrots', 'strawberries', 'tomatoes', 'marjoram']",
+        "helper_plant": "sage",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'fruit trees']",
+        "helper_plant": "southernwood",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['alliums', 'brassicas', 'cabbages', 'peas', 'tomatoes']",
+        "helper_plant": "spearmint",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['chamomile', 'mints', 'broccoli', 'tomatoes', 'valerian', 'angelica', 'marjoram', 'sage', 'peppermint']",
+        "helper_plant": "stinging",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['beans', 'melons', 'onions']",
+        "helper_plant": "summer savoury",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['alliums', 'asparagus', 'beans', 'bush beans', 'pole beans', 'fava', 'beets', 'brassicas', 'broccoli', 'brussels sprouts', 'cabbages', 'carrots', 'cauliflower', 'celery', 'chards', 'corn', 'maize', 'cucumbers', cucurbits', 'eggplant', 'aubergine', 'kohlrabi', 'leeks', 'lettuce', 'mustard', 'nightshades', 'okra', 'onions', 'parsnip', 'peas', 'peppers', 'potatoes', 'pumpkins', 'radishes', 'soybeans', 'spinach', 'squash', 'sweet potatoes', 'tomatoes', 'turnips', 'rutabagas', 'eggplant']",
+        "helper_plant": "tarragon",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'cabbages', 'eggplant', 'aubergine', 'potatoes', 'strawberries', 'tomatoes', 'brussels', 'brassicas', 'carrots']",
+        "helper_plant": "thyme",
+        "plant_type": "herbs"
+    },
+    {
+        "main_plant": "['brassicas', 'carrots']",
+        "helper_plant": "wormwood",
+        "plant_type": "herbs"
+    }
+    
+
+]
