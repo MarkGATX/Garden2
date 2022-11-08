@@ -34,18 +34,18 @@ footer {
     list-style-type: none;
 }
 
-.gardenPlots {
+.gardenLayout {
     width:100%;
     background: url(../images/dirt_background.jpg) no-repeat;
     background-size:cover;
     color:var(--light);
 }
 
-.gardenPlots tr{
+.gardenLayout tr{
     height:150px;
 }
 
-.gardenPlots td {
+.gardenLayout td {
     width:25%;
 }
 
