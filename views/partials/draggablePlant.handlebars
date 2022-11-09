@@ -1,0 +1,14 @@
+<li class="list-group-item d-flex plantItem justify-content-between">
+    <div class='plant' data-plantid="{{plant_id}}">{{plant_name}}</div>
+    <div class="col-9 border-start ps-3">{{description}}
+        <ul>
+            <li>
+                <p>
+                    {{#each companion as |companion|}}
+                    {{companion}}
+                    {{/each}}
+                </p>
+            </li>
+        </ul>
+    </div>
+</li>
