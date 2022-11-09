@@ -44,6 +44,10 @@ footer {
     background: url(../images/dirt_background.jpg) no-repeat;
     background-size:cover;
     color:var(--light);
+    font-family: 'Poor Story', cursive;
+    font-weight:bold;
+    font-size:1.3rem;
+
 }
 
 .gardenLayout tr{
