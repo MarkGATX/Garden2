@@ -1,0 +1,27 @@
+<div class="row d-flex flex-row  justify-content-around">
+    <section class="plantData d-flex flex-column col-md-12 col-lg-5 aling-items-center justify-content-top mb-5">
+        <section class="img"><img src="{{plant_image}}" class="image-fluid w-100">
+        </section>
+        <section class="plantSpecifics">{{Plant_specifics}}</section>
+        <article class="detailedDescription mb-3">{{Plant_description}}</article>
+        <button class="rounded" id="saveFave">Save as a favorite</button>
+    </section>
+    <section class="plantInfo d-flex flex-column col-md-12 col-lg-6">
+        <div class="locationInfo flex-row mb-3">
+            <div class="col-12 mb-4">
+                <h2>{{hardiness_zone}}</h2>
+            </div>
+            <div class="plantHeader d-flex flex-row justify-content-start align-items-center mb-3 col-12">
+                <label for="newZipCode" class="me-2">Check another zip code:</label>
+                <input type="text" class="me-2" id="newZipCode" placeholder="New zip code">
+                <button class="rounded" id="searchNewZipBtn">Submit</button>
+            </div>
+        </div>
+
+        <div id="plantList" class=" mb-3">
+            <ul class="list-group plantOptions">
+                {{#each plant as |plant|}}
+                {{> noDragPlant}}
+                {{/each}}
+            </ul>
+        </div>
