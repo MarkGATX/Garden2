@@ -40,7 +40,7 @@
     </header>
     <main class="container-fluid">
         <div class="row d-flex flex-row  justify-content-around">
-            <section class="gardenDesign d-flex flex-column col-5 justify-content-center">
+            <section class="gardenDesign d-flex flex-column col-md-12 col-lg-5 justify-content-center">
                 <table id="gardenLayout " class="table gardenLayout  table-bordered dragParent">
                     <tbody>
                         <tr>
@@ -70,9 +70,9 @@
                     </tbody>
                 </table>
                 <input type="text" placeholder="name your garden"><button class="saveGarden">Save my garden</button><br>
-                <button class="clearGarden">Clear the garden</button>
+                <button class="clearGarden mb-5">Clear the garden</button>
             </section>
-            <section class="plantInfo d-flex flex-column col-6">
+            <section class="plantInfo d-flex flex-column col-md-12 col-lg-6">
                 <div class="locationInfo flex-row mb-3">
                     <label for="zipEntry">What is your zip code?</label>
                     <input name="zipEntry" id="zipEntry" type='text'>
@@ -201,10 +201,11 @@
 
     </main>
     <footer class="fixed-bottom pb-4 pt-4">
-        <container class="d-flex justify-content-end">
-            <div class="developers col-4 d-flex flex-row">
-                <p>Developed by</p>
-                <ul class="devList d-flex flex-row justify-content-between">
+        <container class="d-flex justify-content-center">
+            <div class="developers col-6 d-flex">
+             
+                <ul class="devList d-flex flex-row justify-content-between ps-2">
+                    <li class="ms-2 me-1"><a href="https://github.com/Spoogh" target="_blank">Developed by</a></li>
                     <li class="ms-2 me-1"><a href="https://github.com/Spoogh" target="_blank">Josh Flores</a></li>
                     <li class="ms-2 me-1"><a href="https://github.com/parradavid300" target="_blank">David Garcia</a>
                     </li>
