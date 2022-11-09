@@ -61,4 +61,15 @@ footer {
     color:var(--light);
 }
 
+
+
+
+/* descendant */
+
+.rotate {
+    transform: rotate(-40deg);
+}
+
+
+
 /* keyframes */
