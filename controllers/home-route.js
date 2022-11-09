@@ -7,11 +7,21 @@ const { User } = require('../models/User');
 
 router.get('/', async (req, res) => {
     try {
-      res.render('home', { 
-        logged_in: req.session.logged_in,
-      });
+        res.render('home', {
+            logged_in: req.session.logged_in,
+        });
     } catch (err) {
-      res.status(500).json(err);
-    }});
+        res.status(500).json(err);
+    }
+});
 
-    module.exports = router;   
+router.get('/login', (req, res) => {
+    if (req.session.loggedIn) {
+        res.redirect('/');
+        return;
+    }
+
+    res.render('login');
+});
+
+module.exports = router;   
