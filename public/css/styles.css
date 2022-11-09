@@ -74,4 +74,15 @@ footer {
     list-style: none;
 }
 
+
+
+
+/* descendant */
+
+.rotate {
+    transform: rotate(-40deg);
+}
+
+
+
 /* keyframes */

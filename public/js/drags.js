@@ -12,8 +12,10 @@
             drop: function (event, ui) {
                   var droppable = $(this);
                   var draggable = ui.draggable;
-                  // Move draggable into droppable
+                  console.log(droppable)                  
+                  // Move draggable into droppable                
                   draggable.clone().appendTo(droppable); 
+                  droppable[0].querySelector('.plant').classList.add('rotate')
               }
       });
       });
