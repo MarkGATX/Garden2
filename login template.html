@@ -17,9 +17,9 @@
 
 <body>
     <header class="pt-3 pb-3 mb-5 d-flex justify-content-between align-items-center">
-        <a href="/" class="col-md-8 col-lg-6"><img class="ps-3 w-100" src="./public/images/garden 2 logo.png"></a>
+        <a href="/"><img class="ps-3 col-md-12 col-lg-8" src="./public/images/garden 2 logo.png"></a>
 
-        <nav class="navbar sticky-top navbar-expand-lg fs-4">
+        <nav class="navbar navbar-expand-lg fs-3">
             <div class="container-fluid d-flex justify-content-end">
                 <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item">
@@ -29,22 +29,69 @@
                         <a class="nav-link" href="/#">Plants</a>
                     </li>
 
-                    {{#if logged_in}}
+
                     <li class="nav-item"><a id="logout" class="nav-link">Logout</a>
                     </li>
-                    {{else}}
+
                     <li class="nav-item">
                         <a class="nav-link" href="/login">Login</a>
                     </li>
-                    {{/if}}
 
                 </ul>
             </div>
         </nav>
     </header>
-    <main class="container-fluid"></main>
 
-    {{{body}}}
+    <main class="container-fluid row justify-content-evenly">
+        <div class="card col-md-12 col-lg-5 mb-3">
+            <img src="./public/images/garden 2 login.png" class="card-img-top" alt="garden2 logo with grown tree">
+            <h2 class="ms-2">
+                Logging in...
+            </h2>
+            <div class="card-body ">
+                <form class="form login-form">
+                    <div class="form-group mb-3">
+                      <label for="email-login" class="col-4 text-end">email:</label>
+                      <input class="form-input" type="text" id="email-login" class="col-7"/>
+                    </div>
+                    <div class="form-group mb-3">
+                      <label for="password-login" class="col-4 text-end">password:</label>
+                      <input class="form-input" type="password" id="password-login" class="col-7"/>
+                    </div>
+                    <div class="form-group mb-3 d-flex justify-content-center">
+                      <button class="rounded" type="submit">login</button>
+                    </div>
+                  </form>
+            </div>
+        </div>
+
+        <div class="card  col-md-12 col-lg-5 mb-3">
+            <img src="./public/images/garden 2 signup.png" class="card-img-top" alt="garden2 logo with seedling">
+            <h2 class="ms-2">
+                Starting out...
+            </h2>
+            <div class="card-body">
+                <form class="form login-form">
+                    <div class="form-group mb-3">
+                      <label for="email-signup" class="col-4 text-end">Email:</label>
+                      <input class="form-input" class="col-7" type="text" id="email-signup" />
+                    </div>
+                    <div class="form-group mb-3">
+                        <label for="username-signup" class="col-4 text-end">username:</label>
+                        <input class="form-input" class="col-7" type="text" id="username-signup" />
+                      </div>
+                    <div class="form-group mb-3">
+                      <label for="password-signup" class="col-4 text-end">password:</label>
+                      <input class="form-input" class="col-7" type="password" id="password-signup" />
+                    </div>
+                    <div class="form-group d-flex justify-content-center">
+                      <button class="rounded" type="submit">signup</button>
+                    </div>
+                  </form>
+            </div>
+        </div>
+
+
 
     </main>
     <footer class="fixed-bottom pb-4 pt-4">
