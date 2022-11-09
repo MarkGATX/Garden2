@@ -24,4 +24,18 @@ router.get('/login', (req, res) => {
     res.render('login');
 });
 
+router.get('/:zone', async (req, res) => {
+    try {
+        const zonePlants = await Plants.findall({
+            where:
+                {
+                  hardiness_zone: req.params.zone,  
+                }
+        })
+        res.status(200).zonePlants;
+    } catch {
+
+    }
+});
+
 module.exports = router;   
