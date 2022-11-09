@@ -23,6 +23,10 @@ header {
     background-color:var(--light);
 }
 
+button {
+    background-color:var(--light);
+}
+
 footer {
     background-color:var(--light);
 }
@@ -35,6 +39,11 @@ footer {
 }
 
 /* class */ 
+
+.card-header {
+    background-color:var(--light) !important;
+}
+
 .devList {
     list-style-type: none;
 }
@@ -59,6 +68,10 @@ footer {
 
 .gardenLayout:hover {
     color:var(--light);
+}
+
+.savedPlants, .savedGardens {
+    list-style: none;
 }
 
 

@@ -1,0 +1,42 @@
+<div class="row d-flex flex-row  justify-content-around align-items-start">
+            <h1 class="col-12 text-center mb-3">Welcome back, user!</h1>
+            <section class="gardenDesign d-flex flex-column col-md-12 col-lg-4 justify-content-center ">
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <h3>Your saved gardens...</h3>
+                    </div>
+                    <div class="card-body">
+                      <ul class="savedGardens">
+                        {{#each saveGarden as |garden|}}
+                        {{> faveGarden}}
+                        {{/each}}
+                      </ul>
+                    </div>
+                  </div>               
+            </section>
+            <section class="plantInfo d-flex flex-column col-md-12 col-lg-4">
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <h3>Your favorite plants...</h3>
+                    </div>
+                    <div class="card-body">
+                      <ul class="savedPlants">
+                        {{#each SavePlant as |plant|}}
+                        {{> favePlants}}
+                        {{/each}}
+                      </ul>
+                    </div>
+                  </div>
+            </section>
+            <section class="plantInfo d-flex flex-column col-md-12 col-lg-3">
+                <div class="card mb-3">
+                    <div class="card-header">
+                        <h3>Your information...</h3>
+                    </div>
+                    <div class="card-body">
+                      <p><label for="username">username:</label> {{username}}</p>
+                      <p><label for="email">email:</label> {{email}}</p>
+                    </div>
+                  </div>
+            </section>
+        </div>
