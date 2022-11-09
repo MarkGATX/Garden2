@@ -1,22 +1,19 @@
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 
-class Plant extends Model {}
+class companionPlant extends Model {}
 
-Plant.init(
+companionPlant.init(
   {
-    plant_id: {
-      type: DataTypes.INTEGER,
+    main_plant: {
+      type: DataTypes.STRING,
       primaryKey: true,
-      autoIncrement: true
+      
     },
-    plant_name: {
+    helper_plant: {
       type: DataTypes.STRING
     },
-    when_to_plant: {
-      type: DataTypes.STRING
-    },
-    plant_zone: {
+    plant_type: {
       type: DataTypes.STRING
     },
 
@@ -26,8 +23,8 @@ Plant.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'plant'
+    modelName: 'companionPlantt'
   }
 );
 
-module.exports = Plant;
+module.exports = companionPlant;
