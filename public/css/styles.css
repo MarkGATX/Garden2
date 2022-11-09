@@ -47,7 +47,6 @@ footer {
     font-family: 'Poor Story', cursive;
     font-weight:bold;
     font-size:1.3rem;
-
 }
 
 .gardenLayout tr{
@@ -62,17 +61,15 @@ footer {
     color:var(--light);
 }
 
-<<<<<<< Updated upstream
-.plant {
-    z-index:50;
-}
+
+
 
 /* descendant */
 
-=======
 .rotate {
     transform: rotate(-40deg);
 }
 
->>>>>>> Stashed changes
+
+
 /* keyframes */
