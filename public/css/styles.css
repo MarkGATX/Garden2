@@ -62,10 +62,17 @@ footer {
     color:var(--light);
 }
 
+<<<<<<< Updated upstream
 .plant {
     z-index:50;
 }
 
 /* descendant */
 
+=======
+.rotate {
+    transform: rotate(-40deg);
+}
+
+>>>>>>> Stashed changes
 /* keyframes */
