@@ -1,0 +1,78 @@
+/* variables */
+:root {
+    --light:#F0F7F4;
+    --brown:#6B4220;
+    --green:#015F29;
+}
+ 
+/* global */
+a {
+    color:inherit;
+    text-decoration:none;
+}
+
+a:hover {
+    color:var(--green);
+}
+
+body {
+    color:var(--brown);
+}
+
+header {
+    background-color:var(--light);
+}
+
+footer {
+    background-color:var(--light);
+}
+
+/* ids */
+
+#plantList {
+    height:50vh;
+    overflow-y:auto;
+}
+
+/* class */ 
+.devList {
+    list-style-type: none;
+}
+
+.gardenLayout {
+    width:100%;
+    background: url(../images/dirt_background.jpg) no-repeat;
+    background-size:cover;
+    color:var(--light);
+    font-family: 'Poor Story', cursive;
+    font-weight:bold;
+    font-size:1.3rem;
+
+}
+
+.gardenLayout tr{
+    height:150px;
+}
+
+.gardenLayout td {
+    width:25%;
+}
+
+.gardenLayout:hover {
+    color:var(--light);
+}
+
+<<<<<<< Updated upstream
+.plant {
+    z-index:50;
+}
+
+/* descendant */
+
+=======
+.rotate {
+    transform: rotate(-40deg);
+}
+
+>>>>>>> Stashed changes
+/* keyframes */

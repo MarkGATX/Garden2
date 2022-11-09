@@ -1,0 +1,51 @@
+<div class="row d-flex flex-row  justify-content-around">
+    <section class="gardenDesign d-flex flex-column col-md-12 col-lg-5 justify-content-center">
+        <table id="gardenLayout " class="table gardenLayout  table-bordered dragParent">
+            <tbody>
+                <tr>
+                    <td class="gardenPlots text-center align-middle" data-11=""></td>
+                    <td class="gardenPlots text-center align-middle" data-12=""></td>
+                    <td class="gardenPlots text-center align-middle" data-13=""></td>
+                    <td class="gardenPlots text-center align-middle" data-14=""></td>
+                </tr>
+                <tr>
+                    <td class="gardenPlots text-center align-middle" data-21=""></td>
+                    <td class="gardenPlots text-center align-middle" data-22=""></td>
+                    <td class="gardenPlots text-center align-middle" data-23=""></td>
+                    <td class="gardenPlots text-center align-middle" data-24=""></td>
+                </tr>
+                <tr>
+                    <td class="gardenPlots text-center align-middle" data-31=""></td>
+                    <td class="gardenPlots text-center align-middle" data-32=""></td>
+                    <td class="gardenPlots text-center align-middle" data-33=""></td>
+                    <td class="gardenPlots text-center align-middle" data-34=""></td>
+                </tr>
+                <tr>
+                    <td class="gardenPlots text-center align-middle" data-41=""></td>
+                    <td class="gardenPlots text-center align-middle" data-42=""></td>
+                    <td class="gardenPlots text-center align-middle" data-43=""></td>
+                    <td class="gardenPlots text-center align-middle" data-44=""></td>
+                </tr>
+            </tbody>
+        </table>
+        <input type="text" placeholder="name your garden"><button class="saveGarden">Save my garden</button><br>
+        <button class="clearGarden mb-5">Clear the garden</button>
+    </section>
+    <section class="plantInfo d-flex flex-column col-md-12 col-lg-6">
+        <div class="locationInfo flex-row mb-3">
+            <label for="zipEntry">What is your zip code?</label>
+            <input name="zipEntry" id="zipEntry" type='text'>
+        </div>
+        <div class="plantHeader d-flex flex-row justify-content-between mb-3">
+            <h3>List of plants by zip code</h3>
+            <button class="rounded" id="seeAll">See all the plants for this region</button>
+        </div>
+        <div id="plantList" class=" mb-3">
+            <ul class="list-group plantOptions">
+                {{#each plant as |plant|}}
+                {{> draggablePlant}}
+                {{/each}}
+            </ul>
+        </div>
+    </section>
+</div>
