@@ -47,7 +47,6 @@ footer {
     font-family: 'Poor Story', cursive;
     font-weight:bold;
     font-size:1.3rem;
-
 }
 
 .gardenLayout tr{
@@ -61,11 +60,5 @@ footer {
 .gardenLayout:hover {
     color:var(--light);
 }
-
-.plant {
-    z-index:50;
-}
-
-/* descendant */
 
 /* keyframes */
