@@ -126,7 +126,7 @@
         "spaceInstructions": "Space plants: 12 inches apart",
         "harvestInstructions": "Harvest in 8-10 weeks. Harvest whole head or you can take a few leaves at a time.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/chinese-cabbage.png",
         "url": "http://gardenate.com/plant/Chinese%2Bcabbage"
     },
     {
@@ -136,7 +136,7 @@
         "spaceInstructions": "Space plants: 2 inches apart",
         "harvestInstructions": "Harvest in 7-11 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/chives.png",
         "url": "http://gardenate.com/plant/Chives"
     },
     {
@@ -146,7 +146,7 @@
         "spaceInstructions": "Space plants: 16 - 24 inches apart",
         "harvestInstructions": "Harvest in 8-10 weeks. Cut fruit off with scissors or sharp knife.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/cucumbers.png",
         "url": "http://gardenate.com/plant/Cucumber"
     },
     {
@@ -156,7 +156,7 @@
         "spaceInstructions": "Space plants: 6 inches apart",
         "harvestInstructions": "Harvest in 8-12 weeks. Use leaves before flowering.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/dill.png",
         "url": "http://gardenate.com/plant/Dill"
     },
     {
@@ -166,7 +166,7 @@
         "spaceInstructions": "Space plants: 24 - 30 inches apart",
         "harvestInstructions": "Harvest in 12-15 weeks. Cut fruit with scissors or sharp knife.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/eggplant.png",
         "url": "http://gardenate.com/plant/Eggplant"
     },
     {
@@ -176,7 +176,7 @@
         "spaceInstructions": "Space plants: Thin to 12 inches",
         "harvestInstructions": "Harvest in 14-15 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/fennel.png",
         "url": "http://gardenate.com/plant/Fennel"
     },
     {
@@ -186,7 +186,7 @@
         "spaceInstructions": "Space plants: 4 - 5 inches apart",
         "harvestInstructions": "Harvest in 17-25 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/garlic.png",
         "url": "http://gardenate.com/plant/Garlic"
     },
     {
@@ -196,7 +196,7 @@
         "spaceInstructions": "Space plants: 4 - 10 inches apart",
         "harvestInstructions": "Harvest in 7-10 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/kohlrabi.png",
         "url": "http://gardenate.com/plant/Kohlrabi"
     },
     {
@@ -206,7 +206,7 @@
         "spaceInstructions": "Space plants: 20 - 30 cm apart",
         "harvestInstructions": "Harvest in 8-12 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/lettuce.png",
         "url": "http://gardenate.com/plant/Lettuce"
     },
     {
@@ -216,7 +216,7 @@
         "spaceInstructions": "Space plants: 4 - 8 inches apart",
         "harvestInstructions": "Harvest in 15-18 weeks. Loosen with a fork rather than pull by hand..",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/leeks.png",
         "url": "http://gardenate.com/plant/Leeks"
     },
     {
@@ -230,23 +230,13 @@
         "url": "http://gardenate.com/plant/Lemon%2BBalm"
     },
     {
-        "name": "lettuce",
-        "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden, or start in seed trays and plant out in 4-6 weeks.. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8¬∞C and 27¬∞C.",
-        "spaceInstructions": "Space plants: 20 - 30 cm apart",
-        "harvestInstructions": "Harvest in 8-12 weeks.",
-        "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
-        "url": "http://gardenate.com/plant/Lettuce"
-    },
-    {
         "name": "mints",
         "alternateName": "",
         "sowInstructions": "Easy to grow. Grow in trays and plant out or start from cuttings. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70¬∞F and 75¬∞F.",
         "spaceInstructions": "Space plants: 12 inches apart",
         "harvestInstructions": "Harvest in 8-12 weeks. Cut leaves from top with scissors.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/mint.png",
         "url": "http://gardenate.com/plant/Mint"
     },
     {
@@ -256,7 +246,7 @@
         "spaceInstructions": "Space plants: 14 - 24 inches apart",
         "harvestInstructions": "Harvest in 5-8 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/mustard.png",
         "url": "http://gardenate.com/plant/Mustard%2Bgreens"
     },
     {
@@ -266,7 +256,7 @@
         "spaceInstructions": "Space plants: 14 - 24 inches apart",
         "harvestInstructions": "Harvest in 11-14 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/okra.png",
         "url": "http://gardenate.com/plant/Okra"
     },
     {
@@ -276,7 +266,7 @@
         "spaceInstructions": "Space plants: 2 - 4 inches apart",
         "harvestInstructions": "Harvest in 25-34 weeks. Allow onions to dry before storing.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/onions.png",
         "url": "http://gardenate.com/plant/Onion"
     },
     {
@@ -286,7 +276,7 @@
         "spaceInstructions": "Space plants: 6 inches apart",
         "harvestInstructions": "Harvest in 6-8 weeks. When flowers appear.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/oregano.png",
         "url": "http://gardenate.com/plant/Oregano"
     },
     {
@@ -296,7 +286,7 @@
         "spaceInstructions": "Space plants: 8 - 12 inches apart",
         "harvestInstructions": "Harvest in 9-19 weeks. Cut stalks from outer part of plant.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/parsley.png",
         "url": "http://gardenate.com/plant/Parsley"
     },
     {
@@ -306,7 +296,7 @@
         "spaceInstructions": "Space plants: 3 - 4 inches apart",
         "harvestInstructions": "Harvest in 17-20 weeks. Best flavour if harvested after a frost..",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/parsnip.png",
         "url": "http://gardenate.com/plant/Parsnip"
     },
     {
@@ -316,7 +306,7 @@
         "spaceInstructions": "Space plants: 5 - 8 cm apart",
         "harvestInstructions": "Harvest in 9-11 weeks. Pick the pods every day to increase production.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/peas.png",
         "url": "http://gardenate.com/plant/Peas"
     },
     {
@@ -326,7 +316,7 @@
         "spaceInstructions": "Space plants: 12 - 16 inches apart",
         "harvestInstructions": "Harvest in 15-20 weeks. Dig carefully, avoid damaging the potatoes.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/potatoes.png",
         "url": "http://gardenate.com/plant/Potato"
     },
     {
@@ -336,7 +326,7 @@
         "spaceInstructions": "Space plants: 35 - 47 inches apart",
         "harvestInstructions": "Harvest in 15-20 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/pumpkin.png",
         "url": "http://gardenate.com/plant/Pumpkin"
     },
     {
@@ -346,7 +336,7 @@
         "spaceInstructions": "Space plants: 1 - 2 inches apart",
         "harvestInstructions": "Harvest in 5-7 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/radishes.png",
         "url": "http://gardenate.com/plant/Radish"
     },
     {
@@ -356,7 +346,7 @@
         "spaceInstructions": "Space plants: 39 - 59 inches apart",
         "harvestInstructions": "Harvest in approximately 1 years. In warmer areas, harvest time might be shorter.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/rosemary.png",
         "url": "http://gardenate.com/plant/Rosemary"
     },
     {
@@ -366,7 +356,7 @@
         "spaceInstructions": "Space plants: 4 - 8 inches apart",
         "harvestInstructions": "Harvest in 10-14 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/rutabagas.png",
         "url": "http://gardenate.com/plant/Rutabaga"
     },
     {
@@ -376,7 +366,7 @@
         "spaceInstructions": "Space plants: 20 inches apart",
         "harvestInstructions": "Harvest in approximately 18 months. Time reduced if grown from cuttings.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/sage.png",
         "url": "http://gardenate.com/plant/Sage"
     },
     {
@@ -386,7 +376,7 @@
         "spaceInstructions": "Space plants: 8 - 12 inches apart",
         "harvestInstructions": "Harvest in 5-11 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/spinach.png",
         "url": "http://gardenate.com/plant/Spinach"
     },
     {
@@ -396,7 +386,7 @@
         "spaceInstructions": "Space plants: 24 - 31 inches apart",
         "harvestInstructions": "Harvest in 7-8 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/squash.png",
         "url": "http://gardenate.com/plant/Squash"
     },
     {
@@ -406,7 +396,7 @@
         "spaceInstructions": "Space plants: 12 - 39 inches apart",
         "harvestInstructions": "Harvest in approximately 11 weeks. Strawberries bruise easily when ripe, handle carefully. Pick with a small piece of stem attached..",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/strawberries.png",
         "url": "http://gardenate.com/plant/Strawberry%2BPlants"
     },
     {
@@ -416,7 +406,7 @@
         "spaceInstructions": "Space plants: 16 - 24 inches apart",
         "harvestInstructions": "Harvest in 15-17 weeks.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/sweet-potato.png",
         "url": "http://gardenate.com/plant/Sweet%2BPotato"
     },
     {
@@ -426,7 +416,7 @@
         "spaceInstructions": "Space plants: 10 - 12 inches apart",
         "harvestInstructions": "Harvest in 42-52 weeks. Root divisions ready in 3 months.",
         "hardiness_zone": "['7b', '8a', '8b', '9a', '9b', '10a']",
-        "image": "",
+        "image": "images/thyme.png",
         "url": "http://gardenate.com/plant/Thyme"
     },
     {
