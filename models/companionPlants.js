@@ -23,7 +23,7 @@ companionPlant.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'companionPlantt'
+    modelName: 'companionPlant'
   }
 );
 
