@@ -29,6 +29,11 @@ footer {
 
 /* ids */
 
+#plantList {
+    height:50vh;
+    overflow-y:auto;
+}
+
 /* class */ 
 .devList {
     list-style-type: none;
@@ -47,6 +52,14 @@ footer {
 
 .gardenLayout td {
     width:25%;
+}
+
+.gardenLayout:hover {
+    color:var(--light);
+}
+
+.plant {
+    z-index:50;
 }
 
 /* descendant */

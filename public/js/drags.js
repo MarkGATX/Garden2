@@ -3,12 +3,12 @@
 //     } );
 
    $ ( function() {
-      $( ".plant" ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
-      $( ".gardenPlots" ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
+      $( document.querySelectorAll('.plant ') ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
+      // $( ".gardenPlots" ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
       $( ".gardenPlots" ).droppable(
             {
-            accept: '.plant',
-            tolerance: 'fit',
+            accept: document.querySelectorAll('.plant'),
+            tolerance: 'pointer',
             drop: function (event, ui) {
                   var droppable = $(this);
                   var draggable = ui.draggable;
