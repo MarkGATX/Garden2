@@ -25,6 +25,9 @@ Plant.init(
     hardiness_zone: {
       type: DataTypes.STRING
     },
+    image:{
+      type: DataTypes.STRING
+    },
     url: {
       type: DataTypes.STRING
     },

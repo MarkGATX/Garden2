@@ -9,17 +9,22 @@ const submitBtn = document.getElementById("zipBtn")
 // 		'X-RapidAPI-Host': 'usda-plant-hardiness-zones.p.rapidapi.com'
 // 	}
 // };
+const apiRes = async ()=>{
 
-
-submitBtn.addEventListener("click", function (event) {
-    event.preventDefault();
-
-    // fetch(`https://usda-plant-hardiness-zones.p.rapidapi.com/zone/${zipCode}`, options)
-// 	.then(response => response.json())
+    //const result = await fetch(`https://usda-plant-hardiness-zones.p.rapidapi.com/zone/${zipCode}`, options)
+    // 	.then(response => response.json())
 // 	.then(response => console.log(response))
 // 	.catch(err => console.error(err));
+}
 
-});
+submitBtn.addEventListener("click", async, function (event) {
+    event.preventDefault();
+
+     api
+    
+
+})
+
 
 
 
