@@ -16,7 +16,7 @@ User.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    name: {
+    username: {
       type: DataTypes.STRING,
       allowNull: false,
     },
@@ -35,6 +35,14 @@ User.init(
         len: [8],
       },
     },
+    save_garden: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    save_plant: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    }
   },
   {
     hooks: {
