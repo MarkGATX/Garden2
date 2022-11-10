@@ -4,12 +4,18 @@ video of the application
 ![]()
 
 ## Collaborators
-[Josh Flores](), David Garcia, Mark Gardener, Brandon Knight
+<a href="https://github.com/MarkGATX/Garden2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MarkGATX/Garden2" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+### Contact US:
+[Josh Flores](https://github.com/Spoogh), [David Garcia](https://github.com/parradavid300), [Mark Gardener](https://github.com/MarkGATX), [Brandon Knight](https://github.com/blksmk8483)
 
 ## Description
-An app to help you plan your square foot garden
+An app to help you plan your square foot garden.
 
-Through the Garden 2 app the user can find all information about planting vegetables, herbs, and fruit in their area. To get started enter your zip code to find all plants within your hardiness zone. The app will show the plants and planting information for your area. You can drag and drop your plant choices into the square garden to map out your future garden.
+Through the Garden 2 app the user can find all information about planting vegetables, herbs, and fruit in their area. To get started enter your zip code to find all plants within your hardiness zone. The app will then show the plants and planting information for your area. You can drag and drop your plant choices into the square garden map to plan your future garden.
 
 
 ## Technologies
