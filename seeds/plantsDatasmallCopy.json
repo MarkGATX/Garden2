@@ -1,0 +1,34 @@
+[
+    {
+        "name": "basil",
+        "alternateName": "Love-lies-bleeding",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 95¬∞F.",
+        "spaceInstructions": "Space plants: 8 - 10 inches apart",
+        "harvestInstructions": "Harvest in 10-12 weeks. Pick before flowering.",
+        "hardiness_zone": ["7b", "8a", "8b", "9a", "9b", "10a"],
+        "image": "images/basil.png",
+        "url": "http://gardenate.com/plant/Basil"
+    },
+    {
+        "name": "asparagus",
+        "alternateName": "",
+        "sowInstructions": "Easy to grow. Plant as crowns. Best planted at soil temperatures between 61¬∞F and 86¬∞F.",
+        "spaceInstructions": "Space plants: 8 - 16 inches apart",
+        "harvestInstructions": "Harvest in 2-3 years. Plant 'crowns' to harvest earlier .",
+        "hardiness_zone": ["7b", "8a", "8b", "9a", "9b", "10a"],
+        "image": "images/asparagus.png",
+        "url": "http://gardenate.com/plant/Asparagus"
+    },
+    {
+        "name": "beets",
+        "alternateName": "Beetroot",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45¬∞F and 77¬∞F. (Show ¬∞C/cm)",
+        "spaceInstructions": "Space plants: 8 - 12 inches apart",
+        "harvestInstructions": "Harvest in 7-10 weeks.",
+        "hardiness_zone": ["7b", "8a", "8b", "9a", "9b", "10a"],
+        "image": "images/",
+        "url": "http://gardenate.com/plant/Beetroot"
+    }
+    
+   
+]

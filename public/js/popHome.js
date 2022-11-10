@@ -1,6 +1,8 @@
 // const hardyApi = require('../js/hardinessapi')
+const fillHomePage=''
 
 const popPlants = async(event) => {
+    let zone
     event.preventDefault();
     const zipInp = document.getElementById('zipEntry')
     const zipReq = zipInp.value;
@@ -17,28 +19,11 @@ const popPlants = async(event) => {
             return response.json();
           })
           .then(function (data) {
-            //Using console.log to examine the data
-            // console.log(data);
-            // console.log(data.min_temp_range);
-            // console.log(data.zone);
             const zone = data.zone;
             const minTemp = data.min_temp_range;
             console.log(zone)
           })
-          .then(async(zone) => {
-          const fillHomePage = await fetch(`/${zone}`, {
-            method: 'GET',
-            // body: JSON.stringify({ zonePlants }),
-            headers: { 'Content-Type': 'application/json' },
-        });
-        console.log(fillHomePage)
-    })
-        
-    // } catch (err) {
-    //     console.log(err)
-    // }
-        //   .catch(err => console.error(err));
-
+          window.location.href=`/${zone}`;
 }
 
 
