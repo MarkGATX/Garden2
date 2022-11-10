@@ -11,17 +11,17 @@ const userData = require('./userData.json');
 const seedDatabase = async () => {
     await sequelize.sync({ force: true });
 
-    const seedsCompanion = await CompanionPlants.bulkCreate(companionData, {
+    await CompanionPlants.bulkCreate(companionData, {
         individualHooks: true,
         returning: true,
     });
 
-    const seedsPlantData = await Plant.bulkCreate(plantData, {
+    await Plant.bulkCreate(plantData, {
         individualHooks: true,
         returning: true,
     });
-
-    const Data = await User.bulkCreate(userData, {
+    
+    await User.bulkCreate(userData, {
         individualHooks: true,
         returning: true,
     });
