@@ -1,9 +1,9 @@
 <div class="row d-flex flex-row  justify-content-around">
     <section class="plantData d-flex flex-column col-md-12 col-lg-5 aling-items-center justify-content-top mb-5">
-        <section class="img"><img src="{{plant_image}}" class="image-fluid w-100">
+        <section class="img"><img src="{{plant_image}}" class="image-fluid w-100 plantDeetsUrl">
         </section>
-        <section class="plantSpecifics">{{Plant_specifics}}</section>
-        <article class="detailedDescription mb-3">{{Plant_description}}</article>
+        <section class="sowAndSpace"></section>
+        <article class="harvest mb-3"></article>
         <button class="rounded" id="saveFave">Save as a favorite</button>
     </section>
     <section class="plantInfo d-flex flex-column col-md-12 col-lg-6">
@@ -20,7 +20,7 @@
 
         <div id="plantList" class=" mb-3">
             <ul class="list-group plantOptions">
-                {{#each plant as |plant|}}
+                {{#each finalPlants as |plant|}}
                 {{> noDragPlant}}
                 {{/each}}
             </ul>

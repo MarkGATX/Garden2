@@ -70,6 +70,10 @@ footer {
     color:var(--light);
 }
 
+.plantDb {
+    height:2rem;
+}
+
 .savedPlants, .savedGardens {
     list-style: none;
 }
