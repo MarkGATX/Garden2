@@ -10,7 +10,7 @@ const options = {
 	}
 };
 
-const apiRes = async ()=>{
+const apiRes = async (zipCode) => {
 
     const result = await fetch(`https://usda-plant-hardiness-zones.p.rapidapi.com/zone/${zipCode}`, options)
     
@@ -47,4 +47,4 @@ const apiRes = async ()=>{
 
 
 
-module.exports = apiRes;
+module.exports = {apiRes}

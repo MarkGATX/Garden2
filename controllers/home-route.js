@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { CompanionPlants } = require('../models/companionPlants');
+const { CompanionPlants } = require('../models/CompanionPlants');
 const { Plant } = require('../models/plant');
 const { User } = require('../models/User');
 // const { User, Plant, CompanionPlants } = require('../models');
@@ -32,7 +32,7 @@ router.get('/:zone', async (req, res) => {
                   hardiness_zone: req.params.zone,  
                 }
         })
-        res.status(200).zonePlants;
+        res.status(200).response(zonePlants);
     } catch {
 
     }
