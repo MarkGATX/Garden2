@@ -15,7 +15,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## Description
 An app to help you plan your square foot garden.
 
-Through the Garden 2 app the user can find all information about planting vegetables, herbs, and fruit in their area. To get started enter your zip code to find all plants within your hardiness zone. The app will then show the plants and planting information for your area. You can drag and drop your plant choices into the square garden map to plan your future garden.
+Through the Garden 2 apgp the user can find all information about planting vegetables, herbs, and fruit in their area. To get started enter your zip code to find all plants within your hardiness zone. The app will then show the plants and planting information for your area. You can drag and drop your plant choices into the square garden map to plan your future garden.
 
 
 ## Technologies
