@@ -81,7 +81,7 @@
     },
     {
         "name": "peppers",
-        "alternateName": "['bell peppers', 'sweet peppers']",
+        "alternateName": "bell peppers",
         "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 95¬∞F.",
         "spaceInstructions": "Space plants: 8 - 20 inches apart",
         "harvestInstructions": "Harvest in 10-12 weeks. Cut fruit off with sharp knife.",
@@ -301,7 +301,7 @@
     },
     {
         "name": "peas",
-        "alternateName": "['bush beans', 'pole beans']",
+        "alternateName": "bush beans",
         "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8¬∞C and 24¬∞C.",
         "spaceInstructions": "Space plants: 5 - 8 cm apart",
         "harvestInstructions": "Harvest in 9-11 weeks. Pick the pods every day to increase production.",
@@ -335,7 +335,11 @@
         "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
         "spaceInstructions": "Space plants: 1 - 2 inches apart",
         "harvestInstructions": "Harvest in 5-7 weeks.",
+<<<<<<< HEAD
+       "hardiness_zone": "8b",
+=======
         "hardiness_zone": "8b",
+>>>>>>> 2d820c7ed871c0fb647e8901cbbcb515b4a19209
         "image": "images/radishes.png",
         "url": "http://gardenate.com/plant/Radish"
     },
@@ -381,7 +385,7 @@
     },
     {
         "name": "squash",
-        "alternateName": "['Crookneck', 'Pattypan', 'Summer squash']",
+        "alternateName": "Crookneck Squash",
         "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70¬∞F and 95¬∞F. (Show ¬∞C/cm)",
         "spaceInstructions": "Space plants: 24 - 31 inches apart",
         "harvestInstructions": "Harvest in 7-8 weeks.",
