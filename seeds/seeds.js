@@ -1,5 +1,8 @@
 const sequelize = require('../config/connection');
-const { User, CompanionPlants, Plants } = require('../models');
+// const { User, CompanionPlants, Plants } = require('../models');
+const {User}  = require('../models');
+const { CompanionPlants } = require('../models');
+const {Plant } = require('../models');
 
 const companionData = require('./companionPlants-seeds.json');
 const plantData = require('./plantsData.json');
@@ -13,7 +16,7 @@ const seedDatabase = async () => {
         returning: true,
     });
 
-    const seedsPlantData = await Plants.bulkCreate(plantData, {
+    const seedsPlantData = await Plant.bulkCreate(plantData, {
         individualHooks: true,
         returning: true,
     });
