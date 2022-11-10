@@ -3,7 +3,8 @@ const router = require('express').Router();
 const Plant = require('../models/plant');
 const User = require('../models/User');
 // const { User, Plant, CompanionPlants } = require('../models');
-
+const { Op } = require("sequelize");
+const sequelize = require('../config/connection');
 
 router.get('/', async (req, res) => {
     try {
@@ -27,36 +28,36 @@ router.get('/login', (req, res) => {
 router.get('/:zone', async (req, res) => {
     let zonePlants = [];
     console.log(JSON.stringify(req.params.zone))
-
-    // const zonePlants = await Plant.findAll({
-    //     where: { 
-    //         hardiness_zone: ["7b", "8a", "8b", "9a", "9b", "10a"],
-    //         // hardiness_zone: '8b',
-    //     }
-    zonePlants = await Plant.findAll({
-        // where: {
-        //     // hardiness_zone: ["8b"],
-        //     hardiness_zone: {[Op.any]: ["8b"]},
+     zonePlants = await Plant.findAll({
+        // attribute :{
+        //     include: [
+        //         sequelize.literal(
+        //             `SELECT * FROM plant WHERE plant.hardiness_zone LIKE '${req.params.zone}'`
+        //         )
+        //     ]
         // }
-
+        where: { 
+            hardiness_zone: "8b",
+        }
+    // zonePlants = await Plant.findAll({
+        // 
     })
     // .then(() => {
-    console.log('theplants are = ' + zonePlants)
+    // console.log('theplants are = ' + zonePlants)
     const finalPlants = zonePlants.map((plants) =>
         plants.get({ plain: true }))
-    // );
+// );
     // console.log('thefinalplanst are = ' + finalPlants)
 
-    console.log("jsonfinalplants = " + JSON.stringify(finalPlants))
+    // console.log("jsonfinalplants = " + JSON.stringify(finalPlants))
     // plantPop = JSON.stringify(finalPlants)
+    // res.status(200).json(JSON.stringify(zonePlants))
     // res.status(200).json(JSON.stringify(finalPlants))
     res.status(200).render('home', {
         finalPlants
     });
 
 })
-// })   
 
-// });
 
 module.exports = router;

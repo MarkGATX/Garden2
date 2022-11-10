@@ -3,7 +3,7 @@
 //     } );
 
    $ ( function() {
-      $( document.querySelectorAll('.plant ') ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
+      $( '.plant ').draggable( {opacity: 1, helper:'clone',  snap:'.gardenPlots', stack: '.plant', zindex:100} );
       // $( ".gardenPlots" ).draggable( {opacity: 0.7, helper:'clone',  snap:'.gardenPlots'} );
       $( ".gardenPlots" ).droppable(
             {

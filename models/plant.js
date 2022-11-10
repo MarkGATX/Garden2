@@ -26,7 +26,7 @@ Plant.init(
       type: DataTypes.TEXT('long')
     },
     hardiness_zone: {
-      type: DataTypes.JSON
+      type: DataTypes.STRING
     },
     image:{
       type: DataTypes.STRING
