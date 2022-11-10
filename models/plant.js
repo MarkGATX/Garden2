@@ -5,25 +5,28 @@ class Plant extends Model {}
 
 Plant.init(
   {
+    id: {
+      type: DataTypes.INTEGER,
+      primaryKey:true,
+      autoIncrement:true,
+    },
     name: {
-      type: DataTypes.STRING,
-      primaryKey: true,
-      
+      type: DataTypes.STRING, 
     },
     alternateName: {
       type: DataTypes.STRING
     },
     sowInstructions: {
-      type: DataTypes.STRING
+      type: DataTypes.TEXT('long')
     },
     spaceInstructions: {
-      type: DataTypes.STRING
+      type: DataTypes.TEXT('long')
     },
     harvestInstructions: {
-      type: DataTypes.STRING
+      type: DataTypes.TEXT('long')
     },
     hardiness_zone: {
-      type: DataTypes.STRING
+      type: DataTypes.JSON
     },
     image:{
       type: DataTypes.STRING

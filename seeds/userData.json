@@ -1,23 +1,10 @@
 [
     {
-        "username": "",
-        "email": "",
-        "password": "",
-        "save_garden": [],
-        "save_plant": []
-    },
-    {
-        "username": "",
-        "email": "",
-        "password": "",
-        "save_garden": [],
-        "save_plant": []
-    },
-     {
-        "username": "",
-        "email": "",
-        "password": "",
+        "username": "Raven",
+        "email": "titan@mail.com",
+        "password": "password123",
         "save_garden": [],
         "save_plant": []
     }
+    
 ]
