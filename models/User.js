@@ -37,11 +37,11 @@ User.init(
     },
     save_garden: {
       type: DataTypes.STRING,
-      allowNull: false,
+      // allowNull: false,
     },
     save_plant: {
       type: DataTypes.STRING,
-      allowNull: false,
+      // allowNull: false,
     }
   },
   {
