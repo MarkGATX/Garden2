@@ -2,9 +2,9 @@
     {
         "name": "basil",
         "alternateName": "Love-lies-bleeding",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 95¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64F and 95F.",
         "spaceInstructions": "Space plants: 8 - 10 inches apart",
-        "harvestInstructions": "Harvest in 10-12 weeks. Pick before flowering.",
+        "harvestInstructions": "Harvest in 10-12 weeks. Pick beforeFlowering.",
         "hardiness_zone": "8b",
         "image": "images/basil.png",
         "url": "http://gardenate.com/plant/Basil"
@@ -12,7 +12,7 @@
     {
         "name": "asparagus",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Plant as crowns. Best planted at soil temperatures between 61¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Plant as crowns. Best planted at soil temperatures between 61F and 86F.",
         "spaceInstructions": "Space plants: 8 - 16 inches apart",
         "harvestInstructions": "Harvest in 2-3 years. Plant 'crowns' to harvest earlier .",
         "hardiness_zone": "8b",
@@ -22,7 +22,7 @@
     {
         "name": "beets",
         "alternateName": "Beetroot",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45¬∞F and 77¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45F and 77F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 8 - 12 inches apart",
         "harvestInstructions": "Harvest in 7-10 weeks.",
         "hardiness_zone": "8b",
@@ -32,9 +32,9 @@
     {
         "name": "borage",
         "alternateName": "Burrage, Bugloss",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 77¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 77F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 8 inches apart",
-        "harvestInstructions": "Harvest in 8-10 weeks. Use leaves before flowers appear, otherwise they will be 'hairy'.",
+        "harvestInstructions": "Harvest in 8-10 weeks. Use leaves beforeFlowers appear, otherwise they will be 'hairy'.",
         "hardiness_zone": "8b",
         "image": "images/",
         "url": "http://gardenate.com/plant/Borage"
@@ -42,9 +42,9 @@
     {
         "name": "broccoli",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45F and 86F.",
         "spaceInstructions": "Space plants: 14 - 20 inches apart",
-        "harvestInstructions": "Harvest in 10-16 weeks. Cut flowerhead off with a knife..",
+        "harvestInstructions": "Harvest in 10-16 weeks. CutFlowerhead off with a knife..",
         "hardiness_zone": "8b",
         "image": "images/broccoli.png",
         "url": "http://gardenate.com/plant/Broccoli"
@@ -52,7 +52,7 @@
     {
         "name": "brussels sprouts",
         "alternateName": "",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45¬∞F and 86¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45F and 86F.",
         "spaceInstructions": "Space plants: 18 - 24 inches apart",
         "harvestInstructions": "Harvest in 14-28 weeks. Pick sprouts when small. .",
         "hardiness_zone": "8b",
@@ -62,7 +62,7 @@
     {
         "name": "cabbages",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 41¬∞F and 64¬∞F.",
+        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 41F and 64F.",
         "spaceInstructions": "Space plants: 20 - 30 inches apart",
         "harvestInstructions": "Harvest in 11-15 weeks.",
         "hardiness_zone": "8b",
@@ -74,7 +74,7 @@
         "alternateName": "capsicum",
         "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64F and 95F.",
         "spaceInstructions": "Space plants: 8 - 20 inches apart",
-        "harvestInstructions": "Harvest in 10-12 weeks. Cut fruit off with sharp knife.",
+        "harvestInstructions": "Harvest in 10-12 weeks. CutFruit off with sharp knife.",
         "hardiness_zone": "8b",
         "image": "images/peppers.png",
         "url": "http://gardenate.com/plant/Capsicum"
@@ -92,7 +92,7 @@
     {
         "name": "cauliflower",
         "alternateName": "",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 86¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 86F.",
         "spaceInstructions": "Space plants: 24 - 39 inches apart",
         "harvestInstructions": "Harvest in 15-22 weeks.",
         "hardiness_zone": "8b",
@@ -102,7 +102,7 @@
     {
         "name": "celery",
         "alternateName": "",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 54¬∞F and 70¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 54F and 70F.",
         "spaceInstructions": "Space plants: 6 - 12 inches apart",
         "harvestInstructions": "Harvest in 17-18 weeks.",
         "hardiness_zone": "8b",
@@ -112,9 +112,9 @@
     {
         "name": "chinese cabbage",
         "alternateName": "Wong bok, wong nga pak",
-        "sowInstructions": "Easy to grow. Sow direct in the garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 68¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Easy to grow. Sow direct in the garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 68F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 12 inches apart",
-        "harvestInstructions": "Harvest in 8-10 weeks. Harvest whole head or you can take a few leaves at a time.",
+        "harvestInstructions": "Harvest in 8-10 weeks. Harvest whole head or you can take aFew leaves at a time.",
         "hardiness_zone": "8b",
         "image": "images/chinese-cabbage.png",
         "url": "http://gardenate.com/plant/Chinese%2Bcabbage"
@@ -122,7 +122,7 @@
     {
         "name": "chives",
         "alternateName": "Garden chives",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 86F.",
         "spaceInstructions": "Space plants: 2 inches apart",
         "harvestInstructions": "Harvest in 7-11 weeks.",
         "hardiness_zone": "8b",
@@ -134,7 +134,7 @@
         "alternateName": "",
         "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 61F and 95.",
         "spaceInstructions": "Space plants: 16 - 24 inches apart",
-        "harvestInstructions": "Harvest in 8-10 weeks. Cut fruit off with scissors or sharp knife.",
+        "harvestInstructions": "Harvest in 8-10 weeks. CutFruit off with scissors or sharp knife.",
         "hardiness_zone": "8b",
         "image": "images/cucumbers.png",
         "url": "http://gardenate.com/plant/Cucumber"
@@ -142,9 +142,9 @@
     {
         "name": "dill",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 68¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 68F.",
         "spaceInstructions": "Space plants: 6 inches apart",
-        "harvestInstructions": "Harvest in 8-12 weeks. Use leaves before flowering.",
+        "harvestInstructions": "Harvest in 8-12 weeks. Use leaves beforeFlowering.",
         "hardiness_zone": "8b",
         "image": "images/dill.png",
         "url": "http://gardenate.com/plant/Dill"
@@ -152,17 +152,17 @@
     {
         "name": "eggplant",
         "alternateName": "Aubergine",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 75¬∞F and 90¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 75F and 90F.",
         "spaceInstructions": "Space plants: 24 - 30 inches apart",
-        "harvestInstructions": "Harvest in 12-15 weeks. Cut fruit with scissors or sharp knife.",
+        "harvestInstructions": "Harvest in 12-15 weeks. CutFruit with scissors or sharp knife.",
         "hardiness_zone": "8b",
         "image": "images/eggplant.png",
         "url": "http://gardenate.com/plant/Eggplant"
     },
     {
         "name": "fennel",
-        "alternateName": "Bronze fennel",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 77¬∞F.",
+        "alternateName": "BronzeFennel",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 77F.",
         "spaceInstructions": "Space plants: Thin to 12 inches",
         "harvestInstructions": "Harvest in 14-15 weeks.",
         "hardiness_zone": "8b",
@@ -172,7 +172,7 @@
     {
         "name": "garlic",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Plant cloves. Best planted at soil temperatures between 50¬∞F and 95¬∞F.",
+        "sowInstructions": "Easy to grow. Plant cloves. Best planted at soil temperatures between 50F and 95F.",
         "spaceInstructions": "Space plants: 4 - 5 inches apart",
         "harvestInstructions": "Harvest in 17-25 weeks.",
         "hardiness_zone": "8b",
@@ -182,7 +182,7 @@
     {
         "name": "kohlrabi",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46F and 86F.",
         "spaceInstructions": "Space plants: 4 - 10 inches apart",
         "harvestInstructions": "Harvest in 7-10 weeks.",
         "hardiness_zone": "8b",
@@ -192,7 +192,7 @@
     {
         "name": "lettuce",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden, or start in seed trays and plant out in 4-6 weeks.. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8¬∞C and 27¬∞C.",
+        "sowInstructions": "Easy to grow. Sow in garden, or start in seed trays and plant out in 4-6 weeks.. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8 C and 27 C.",
         "spaceInstructions": "Space plants: 20 - 30 cm apart",
         "harvestInstructions": "Harvest in 8-12 weeks.",
         "hardiness_zone": "8b",
@@ -202,9 +202,9 @@
     {
         "name": "leeks",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46F and 86F.",
         "spaceInstructions": "Space plants: 4 - 8 inches apart",
-        "harvestInstructions": "Harvest in 15-18 weeks. Loosen with a fork rather than pull by hand..",
+        "harvestInstructions": "Harvest in 15-18 weeks. Loosen with aFork rather than pull by hand..",
         "hardiness_zone": "8b",
         "image": "images/leeks.png",
         "url": "http://gardenate.com/plant/Leeks"
@@ -212,9 +212,9 @@
     {
         "name": "lemon balm",
         "alternateName": "Sweet balm",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 77¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 77F.",
         "spaceInstructions": "Space plants: 10 inches apart",
-        "harvestInstructions": "Harvest in 8-10 weeks. Cut back tall stems to prevent flowering.",
+        "harvestInstructions": "Harvest in 8-10 weeks. Cut back tall stems to preventFlowering.",
         "hardiness_zone": "8b",
         "image": "",
         "url": "http://gardenate.com/plant/Lemon%2BBalm"
@@ -222,9 +222,9 @@
     {
         "name": "mints",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Grow in trays and plant out or start from cuttings. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70¬∞F and 75¬∞F.",
+        "sowInstructions": "Easy to grow. Grow in trays and plant out or startFrom cuttings. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70F and 75F.",
         "spaceInstructions": "Space plants: 12 inches apart",
-        "harvestInstructions": "Harvest in 8-12 weeks. Cut leaves from top with scissors.",
+        "harvestInstructions": "Harvest in 8-12 weeks. Cut leavesFrom top with scissors.",
         "hardiness_zone": "8b",
         "image": "images/mint.png",
         "url": "http://gardenate.com/plant/Mint"
@@ -232,7 +232,7 @@
     {
         "name": "mustard",
         "alternateName": "Gai choy",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 95¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 95F.",
         "spaceInstructions": "Space plants: 14 - 24 inches apart",
         "harvestInstructions": "Harvest in 5-8 weeks.",
         "hardiness_zone": "8b",
@@ -242,7 +242,7 @@
     {
         "name": "okra",
         "alternateName": "Ladyfinger, gumbo",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 68¬∞F and 95¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 68F and 95F.",
         "spaceInstructions": "Space plants: 14 - 24 inches apart",
         "harvestInstructions": "Harvest in 11-14 weeks.",
         "hardiness_zone": "8b",
@@ -252,7 +252,7 @@
     {
         "name": "onions",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46F and 86F.",
         "spaceInstructions": "Space plants: 2 - 4 inches apart",
         "harvestInstructions": "Harvest in 25-34 weeks. Allow onions to dry before storing.",
         "hardiness_zone": "8b",
@@ -262,19 +262,19 @@
     {
         "name": "oregano",
         "alternateName": "Pot Marjoram",
-        "sowInstructions": "Sow in garden, or start in seed trays. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 77¬∞F.",
+        "sowInstructions": "Sow in garden, or start in seed trays. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64F and 77F.",
         "spaceInstructions": "Space plants: 6 inches apart",
-        "harvestInstructions": "Harvest in 6-8 weeks. When flowers appear.",
+        "harvestInstructions": "Harvest in 6-8 weeks. WhenFlowers appear.",
         "hardiness_zone": "8b",
         "image": "images/oregano.png",
         "url": "http://gardenate.com/plant/Oregano"
     },
     {
         "name": "parsley",
-        "alternateName": "Curly leaf parsley or flat leaf (Italian) parsley",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 86¬∞F.",
+        "alternateName": "Curly leaf parsley orFlat leaf (Italian) parsley",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 86F.",
         "spaceInstructions": "Space plants: 8 - 12 inches apart",
-        "harvestInstructions": "Harvest in 9-19 weeks. Cut stalks from outer part of plant.",
+        "harvestInstructions": "Harvest in 9-19 weeks. Cut stalksFrom outer part of plant.",
         "hardiness_zone": "8b",
         "image": "images/parsley.png",
         "url": "http://gardenate.com/plant/Parsley"
@@ -282,9 +282,9 @@
     {
         "name": "parsnip",
         "alternateName": "",
-        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 43¬∞F and 70¬∞F.",
+        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 43F and 70F.",
         "spaceInstructions": "Space plants: 3 - 4 inches apart",
-        "harvestInstructions": "Harvest in 17-20 weeks. Best flavour if harvested after a frost..",
+        "harvestInstructions": "Harvest in 17-20 weeks. BestFlavour if harvested after aFrost..",
         "hardiness_zone": "8b",
         "image": "images/parsnip.png",
         "url": "http://gardenate.com/plant/Parsnip"
@@ -292,7 +292,7 @@
     {
         "name": "peas",
         "alternateName": "bush beans",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8¬∞C and 24¬∞C.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 8 C and 24 C.",
         "spaceInstructions": "Space plants: 5 - 8 cm apart",
         "harvestInstructions": "Harvest in 9-11 weeks. Pick the pods every day to increase production.",
         "hardiness_zone": "8b",
@@ -302,7 +302,7 @@
     {
         "name": "potatoes",
         "alternateName": "",
-        "sowInstructions": "Plant tuber. Best planted at soil temperatures between 50¬∞F and 86¬∞F.",
+        "sowInstructions": "Plant tuber. Best planted at soil temperatures between 50F and 86F.",
         "spaceInstructions": "Space plants: 12 - 16 inches apart",
         "harvestInstructions": "Harvest in 15-20 weeks. Dig carefully, avoid damaging the potatoes.",
         "hardiness_zone": "8b",
@@ -312,7 +312,7 @@
     {
         "name": "pumpkins",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 68¬∞F and 90¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 68F and 90F.",
         "spaceInstructions": "Space plants: 35 - 47 inches apart",
         "harvestInstructions": "Harvest in 15-20 weeks.",
         "hardiness_zone": "8b",
@@ -322,7 +322,7 @@
     {
         "name": "radishes",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46F and 86F.",
         "spaceInstructions": "Space plants: 1 - 2 inches apart",
         "harvestInstructions": "Harvest in 5-7 weeks.",
         "hardiness_zone": "8b",
@@ -332,7 +332,7 @@
     {
         "name": "rosemary",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Plant cuttings . Best planted at soil temperatures between 59¬∞F and 68¬∞F.",
+        "sowInstructions": "Easy to grow. Plant cuttings . Best planted at soil temperatures between 59F and 68F.",
         "spaceInstructions": "Space plants: 39 - 59 inches apart",
         "harvestInstructions": "Harvest in approximately 1 years. In warmer areas, harvest time might be shorter.",
         "hardiness_zone": "8b",
@@ -342,7 +342,7 @@
     {
         "name": "rutabagas",
         "alternateName": "Swedes",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45¬∞F and 77¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45F and 77F.",
         "spaceInstructions": "Space plants: 4 - 8 inches apart",
         "harvestInstructions": "Harvest in 10-14 weeks.",
         "hardiness_zone": "8b",
@@ -352,9 +352,9 @@
     {
         "name": "sage",
         "alternateName": "Common Sage",
-        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 77¬∞F.",
+        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 77F.",
         "spaceInstructions": "Space plants: 20 inches apart",
-        "harvestInstructions": "Harvest in approximately 18 months. Time reduced if grown from cuttings.",
+        "harvestInstructions": "Harvest in approximately 18 months. Time reduced if grownFrom cuttings.",
         "hardiness_zone": "8b",
         "image": "images/sage.png",
         "url": "http://gardenate.com/plant/Sage"
@@ -362,7 +362,7 @@
     {
         "name": "spinach",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50¬∞F and 77¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 50F and 77F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 8 - 12 inches apart",
         "harvestInstructions": "Harvest in 5-11 weeks.",
         "hardiness_zone": "8b",
@@ -372,7 +372,7 @@
     {
         "name": "squash",
         "alternateName": "Crookneck Squash",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70¬∞F and 95¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 70F and 95F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 24 - 31 inches apart",
         "harvestInstructions": "Harvest in 7-8 weeks.",
         "hardiness_zone": "8b",
@@ -382,7 +382,7 @@
     {
         "name": "strawberries",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Plant with crown (of roots) just covered.. Best planted at soil temperatures between 50¬∞F and 68¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Easy to grow. Plant with crown (of roots) just covered.. Best planted at soil temperatures between 50F and 68F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 12 - 39 inches apart",
         "harvestInstructions": "Harvest in approximately 11 weeks. Strawberries bruise easily when ripe, handle carefully. Pick with a small piece of stem attached..",
         "hardiness_zone": "8b",
@@ -392,7 +392,7 @@
     {
         "name": "sweet potatoes",
         "alternateName": "Kumara",
-        "sowInstructions": "Plant shoots or cuttings (Slips). Best planted at soil temperatures between 63¬∞F and 95¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Plant shoots or cuttings (Slips). Best planted at soil temperatures between 63F and 95F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 16 - 24 inches apart",
         "harvestInstructions": "Harvest in 15-17 weeks.",
         "hardiness_zone": "8b",
@@ -402,7 +402,7 @@
     {
         "name": "thyme",
         "alternateName": "Common thyme",
-        "sowInstructions": "Grow in seed trays and plant out 6-8 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 59¬∞F and 77¬∞F. (Show ¬∞C/cm)",
+        "sowInstructions": "Grow in seed trays and plant out 6-8 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 59F and 77F. (Show  C/cm)",
         "spaceInstructions": "Space plants: 10 - 12 inches apart",
         "harvestInstructions": "Harvest in 42-52 weeks. Root divisions ready in 3 months.",
         "hardiness_zone": "8b",
@@ -412,7 +412,7 @@
     {
         "name": "alliums",
         "alternateName": "",
-        "sowInstructions": "Pick a spot in your garden that has well-draining soil and gets full sun. Plant the allium bulbs about 4-8” deep and 6-8” apart, placing them in the ground with their pointy ends up. Water well once and wait for spring. After the alliums have bloomed don’t cut off the foliage. Leave it until it’s completely withered and yellow, then remove.",
+        "sowInstructions": "Pick a spot in your garden that has well-draining soil and getsFull sun. Plant the allium bulbs about 4-8” deep and 6-8” apart, placing them in the ground with their pointy ends up. Water well once and waitFor spring. After the alliums have bloomed don’t cut off theFoliage. Leave it until it’s completely withered and yellow, then remove.",
         "spaceInstructions": "Space plants 4 - 8 inches apart",
         "harvestInstructions": "Harvest in 6-8 months",
         "hardiness_zone": "8b",
@@ -422,8 +422,8 @@
     {
         "name": "apples",
         "alternateName": "",
-        "sowInstructions": "When seeds begin to sprout, carefully transfer them to pots filled with good potting mix. Make a small hole in the soil with your fingertip or the tip of a pencil, drop the seed in and cover it with soil, then water thoroughly. Keep the soil slightly moist, and when leaves begin to emerge, transfer the pots to a sunny window.",
-        "spaceInstructions": "Space plants: 8-15 feet apart",
+        "sowInstructions": "When seeds begin to sprout, carefully transfer them to potsFilled with good potting mix. Make a small hole in the soil with yourFingertip or the tip of a pencil, drop the seed in and cover it with soil, then water thoroughly. Keep the soil slightly moist, and when leaves begin to emerge, transfer the pots to a sunny window.",
+        "spaceInstructions": "Space plants: 8-15Feet apart",
         "harvestInstructions": "Harvest in 8 - 10 years.",
         "hardiness_zone": "8b",
         "image": "images/apples.png",
@@ -434,7 +434,7 @@
         "alternateName": "",
         "sowInstructions": "Plant them one to two inches deep and two to three inches apart. Once seedlings develop leaves, thin them so they're six inches apart. ",
         "spaceInstructions": "Space the rows 24 to 36 inches apart.",
-        "harvestInstructions": "Harvest 1 - 2 weeks after flowering.",
+        "harvestInstructions": "Harvest 1 - 2 weeks afterFlowering.",
         "hardiness_zone": "8b",
         "image": "images/bush-beans.png",
         "url": ""
@@ -444,7 +444,7 @@
         "alternateName": "",
         "sowInstructions": "Plant them one to two inches deep and two to three inches apart. Once seedlings develop leaves, thin them so they're six inches apart. ",
         "spaceInstructions": "Space the rows 24 to 36 inches apart.",
-        "harvestInstructions": "Harvest 1 - 2 weeks after flowering.",
+        "harvestInstructions": "Harvest 1 - 2 weeks afterFlowering.",
         "hardiness_zone": "8b",
         "image": "images/pole-beans.png",
         "url": ""
@@ -462,7 +462,7 @@
     {
         "name": "corn",
         "alternateName": "",
-        "sowInstructions": "Sow seeds about 1½ to 2 inches deep and 2 to 4 inches apart in short, side-by-side rows to form a block, rather than one long row. For decent pollination, we recommend a modest block of, say, 10 to 50 plants. You may choose to fertilize at planting time with a 10-10-10 fertilizer; corn is meant to grow rapidly.",
+        "sowInstructions": "Sow seeds about 1½ to 2 inches deep and 2 to 4 inches apart in short, side-by-side rows toForm a block, rather than one long row.For decent pollination, we recommend a modest block of, say, 10 to 50 plants. You may choose toFertilize at planting time with a 10-10-10Fertilizer; corn is meant to grow rapidly.",
         "spaceInstructions": "Space plants 6 inches apart.",
         "harvestInstructions": "Harvest in 100 days.",
         "hardiness_zone": "8b",
@@ -474,7 +474,7 @@
         "alternateName": "",
         "sowInstructions": "Lavender seeds can be sown directly in the garden, but they germinate much more reliably when started indoors in a seed tray. Use a light, seed-specific potting mix, and gently cover each seed with a thin layer of soil. Lavender germinates more quickly when it's exposed to sunlight, so don't cover them entirely.",
         "spaceInstructions": "Space plants 24 -36 inches apart.",
-        "harvestInstructions": "Harvest when flowers have opened by 1/3.",
+        "harvestInstructions": "Harvest whenFlowers have opened by 1/3.",
         "hardiness_zone": "8b",
         "image": "images/lavender.png",
         "url": ""
@@ -492,9 +492,9 @@
     {
         "name": "chamomile",
         "alternateName": "",
-        "sowInstructions": "Sow seeds 1cm (½”) deep. Keep moist, and thin or transplant to 10-15cm (4-6″) apart. Seeds should sprout in 10-14 days. Chamomile is a fairly adaptable plant, but does best in full sun in well-drained soil.",
+        "sowInstructions": "Sow seeds 1cm (½”) deep. Keep moist, and thin or transplant to 10-15cm (4-6″) apart. Seeds should sprout in 10-14 days. Chamomile is aFairly adaptable plant, but does best inFull sun in well-drained soil.",
         "spaceInstructions": "Space plants 4 - 6 inches apart.",
-        "harvestInstructions": "Harvest the small, fragrant flowers when they are fully open. Use the petals fresh or dry. The leaves can be gathered in spring to early summer and used fresh or dry.",
+        "harvestInstructions": "Harvest the small,FragrantFlowers when they areFully open. Use the petalsFresh or dry. The leaves can be gathered in spring to early summer and usedFresh or dry.",
         "hardiness_zone": "8b",
         "image": "images/chamomille.png",
         "url": ""
@@ -502,7 +502,7 @@
     {
         "name": "cilantro",
         "alternateName": "",
-        "sowInstructions": "Sow cilantro seeds 1/4-inch deep directly in the garden in late spring or early summer. Sow seeds or thin to 6 to 8 inches apart in rows spaced about 1 foot apart. Provide plenty of moisture and feed cilantro plants with a water-soluble fertilizer when they reach about 2 inches in height.",
+        "sowInstructions": "Sow cilantro seeds 1/4-inch deep directly in the garden in late spring or early summer. Sow seeds or thin to 6 to 8 inches apart in rows spaced about 1Foot apart. Provide plenty of moisture andFeed cilantro plants with a water-solubleFertilizer when they reach about 2 inches in height.",
         "spaceInstructions": "Space plants 12 inches apart.",
         "harvestInstructions": "Harvest in 45 days.",
         "hardiness_zone": "8b",
@@ -526,17 +526,17 @@
         "spaceInstructions": "Space plants 6 inches apart. ",
         "harvestInstructions": "Harvest 50 - 60 days.",
         "hardiness_zone": "8b",
-        "image": "images/green-onion",
+        "image": "images/green-onion.png",
         "url": ""
     },
     {
         "name": "lemon-grass",
         "alternateName": "",
-        "sowInstructions": "Plant lemongrass seeds 1/4 inch deep and 1 inch apart and begin them inside up to three weeks befor`e the last frost date. If planting inside, plant the lemongrass in seedling trays that can be covered so the seeds have a warm, moist environment to germinate. Once the seedlings appear, remove the plastic covering and transplant them outdoors to a location in full sun.",
+        "sowInstructions": "Plant lemongrass seeds 1/4 inch deep and 1 inch apart and begin them inside up to three weeks befor`e the lastFrost date. If planting inside, plant the lemongrass in seedling trays that can be covered so the seeds have a warm, moist environment to germinate. Once the seedlings appear, remove the plastic covering and transplant them outdoors to a location inFull sun.",
         "spaceInstructions": "Space plants 1 inch apart.",
         "harvestInstructions": "Harvest when stalks are at least 1/2 inches thick.",
         "hardiness_zone": "8b",
-        "image": "images/lemon-grass",
+        "image": "images/lemon-grass.png",
         "url": ""
     },
     {
@@ -550,19 +550,19 @@
         "url": ""
     },
     {
-        "name": "passion fruit",
+        "name": "passionFruit",
         "alternateName": "",
-        "sowInstructions": "Sow the seed into a container filled with seed-raising mix (available in bags from garden centres or hardware stores). Seeds can be sown in a small (10cm) pot with one to two seeds per pot or into punnets. Moisten the mix before sowing the seed. Place the seed on the mix and lightly cover it with seed-raising mix.",
-        "spaceInstructions": "Space plants 8 - 12 feet apart.",
+        "sowInstructions": "Sow the seed into a containerFilled with seed-raising mix (available in bagsFrom garden centres or hardware stores). Seeds can be sown in a small (10cm) pot with one to two seeds per pot or into punnets. Moisten the mix before sowing the seed. Place the seed on the mix and lightly cover it with seed-raising mix.",
+        "spaceInstructions": "Space plants 8 - 12Feet apart.",
         "harvestInstructions": "Harvest in 18 months - 2 years.",
         "hardiness_zone": "8b",
-        "image": "images/passion-fruit",
+        "image": "images/passion-fruit.png",
         "url": ""
     },
     {
         "name": "peppermint",
         "alternateName": "",
-        "sowInstructions": "To sow the seeds indoors, place them on top of the Bio Sponge in your Bio Dome, or on top of the medium in your seed flat. Do not cover the seeds; they need light to germinate. They should sprout within 10 to 15 days at room temperature or slightly warmer (68 to 75°F).",
+        "sowInstructions": "To sow the seeds indoors, place them on top of the Bio Sponge in your Bio Dome, or on top of the medium in your seedFlat. Do not cover the seeds; they need light to germinate. They should sprout within 10 to 15 days at room temperature or slightly warmer (68 to 75°F).",
         "spaceInstructions": "Space plants 12 - 18 inces apart.",
         "harvestInstructions": "Harvest after plant has reached 4 inches in height.",
         "hardiness_zone": "8b",
@@ -572,7 +572,7 @@
     {
         "name": "spearmint",
         "alternateName": "",
-        "sowInstructions": "To sow the seeds indoors, place them on top of the Bio Sponge in your Bio Dome, or on top of the medium in your seed flat. Do not cover the seeds; they need light to germinate. They should sprout within 10 to 15 days at room temperature or slightly warmer (68 to 75°F).",
+        "sowInstructions": "To sow the seeds indoors, place them on top of the Bio Sponge in your Bio Dome, or on top of the medium in your seedFlat. Do not cover the seeds; they need light to germinate. They should sprout within 10 to 15 days at room temperature or slightly warmer (68 to 75°F).",
         "spaceInstructions": "Space plants 12 - 18 inces apart.",
         "harvestInstructions": "Harvest after plant has reached 4 inches in height.",
         "hardiness_zone": "8b",
@@ -582,7 +582,7 @@
     {
         "name": "catnip",
         "alternateName": "",
-        "sowInstructions": "Plant catnip in spring, once all chances of frost have passed. You'll want to plant it in an area where your cats can roll in it without damaging neighboring plants. Space catnip plants 18 to 24 inches apart in a very sunny area with fertile, well-drained soil.",
+        "sowInstructions": "Plant catnip in spring, once all chances ofFrost have passed. You'll want to plant it in an area where your cats can roll in it without damaging neighboring plants. Space catnip plants 18 to 24 inches apart in a very sunny area withFertile, well-drained soil.",
         "spaceInstructions": "Space plants 18 - 24 inches apart.",
         "harvestInstructions": "Harvest after plant has reached 4 inches in height.",
         "hardiness_zone": "8b",
