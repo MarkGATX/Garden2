@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { companionPlant } = require('../../models/CompanionPlants');
+// const { companionPlant } = require('../../models/CompanionPlants');
 
 
 
