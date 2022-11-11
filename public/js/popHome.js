@@ -19,7 +19,7 @@ const popPlants = async(event) => {
             return response.json();
           })
           .then(function (data) {
-            const zone = data.zone;
+            zone = data.zone;
             const minTemp = data.min_temp_range;
             console.log(zone)
           })
