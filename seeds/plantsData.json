@@ -72,7 +72,7 @@
     {
         "name": "peppers",
         "alternateName": "capsicum",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 95¬∞F.",
+        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64F and 95F.",
         "spaceInstructions": "Space plants: 8 - 20 inches apart",
         "harvestInstructions": "Harvest in 10-12 weeks. Cut fruit off with sharp knife.",
         "hardiness_zone": "8b",
@@ -82,7 +82,7 @@
     {
         "name": "carrots",
         "alternateName": "",
-        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
+        "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46F and 86F.",
         "spaceInstructions": "Space plants: 2 - 12 inches apart",
         "harvestInstructions": "Harvest in 12-18 weeks.",
         "hardiness_zone": "8b",
@@ -132,7 +132,7 @@
     {
         "name": "cucumbers",
         "alternateName": "",
-        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 61¬∞F and 95¬∞F.",
+        "sowInstructions": "Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 61F and 95.",
         "spaceInstructions": "Space plants: 16 - 24 inches apart",
         "harvestInstructions": "Harvest in 8-10 weeks. Cut fruit off with scissors or sharp knife.",
         "hardiness_zone": "8b",
