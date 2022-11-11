@@ -26,6 +26,11 @@ const popPlants = async(event) => {
           window.location.href=`/${zone}`;
 }
 
+const showPlants = async (event) => {
+    event.preventDefault();
+    window.location.href=`/plants`
+}
 
 
 document.querySelector('#searchZip').addEventListener('click', popPlants);
+document.querySelector('#seeAll').addEventListener('click', showPlants);
