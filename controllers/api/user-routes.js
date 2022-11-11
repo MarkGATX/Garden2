@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const User = require('../../models/User');
 
+//login
 router.post('/', async (req, res) => {
   try {
     const userData = await User.create(req.body);
@@ -9,14 +10,14 @@ router.post('/', async (req, res) => {
       req.session.user_id = userData.id;
       req.session.logged_in = true;
 
-      res.status(200).json(userData);
+      res.status(200).render('userDash');
     });
   } catch (err) {
     res.status(400).json(err);
   }
 });
 
-
+//new user
 router.post('/login', async (req, res) => {
   try {
     const userData = await User.findOne({ where: { email: req.body.email } });
@@ -49,6 +50,7 @@ router.post('/login', async (req, res) => {
   }
 });
 
+//lgout
 router.post('/logout', (req, res) => {
   if (req.session.logged_in) {
     req.session.destroy(() => {

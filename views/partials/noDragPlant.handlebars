@@ -1,7 +1,9 @@
-<li class="list-group-item d-flex plantItem justify-content-between">
-    <div class='plantNoDrag' data-plantid="{{plant_id}}">{{plant_name}}</div>
-    <div class="col-9 border-start ps-3">{{short_description}}
-        <ul>
+<li class="list-group-item d-flex plantItem align-items-center justify-content-around">
+    <button class="rounded plantDb" data-plantid="{{id}}">See more</button>
+    <div class="col-9 border-start ps-3 plantNoDrag" >
+        {{name}}<br>
+        {{harvestInstructions}}
+        {{!-- <ul>
             <li>
                 <p>
                     {{#each companion as |companion|}}
@@ -9,6 +11,8 @@
                     {{/each}}
                 </p>
             </li>
-        </ul>
+        </ul> --}}
     </div>
 </li>
+
+<script src="js/plantDbLookup.js"></script>

@@ -26,7 +26,7 @@ router.get('/login', (req, res) => {
     res.render('login');
 });
 
-router.get('/dashboard', withAuth.withAuth, async (req, res) => {
+router.get('/dashboard',  async (req, res) => {
     try {
         res.render('userDash', {
             logged_in: req.session.logged_in,
@@ -50,6 +50,7 @@ router.get('/plants', async (req, res) => {
             plants.get({ plain: true }))
 
         res.render('plantInfo', {
+            finalPlants,
             logged_in: req.session.logged_in,
         });
     } catch (err) {
@@ -75,6 +76,18 @@ router.get('/:zone', async (req, res) => {
         finalPlants
     });
 
+})
+
+router.get('/plant/:id',  async (req, res) => {
+    try {
+        const dbPlantData = await Plant.findByPk(req.params.id, 
+        );
+        const finalPlantData = dbPlantData.get({ plain: true });
+        console.log(finalPlantData)
+        res.json(finalPlantData)
+    }
+    catch {
+} 
 })
 
 
