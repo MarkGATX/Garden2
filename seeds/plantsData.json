@@ -80,16 +80,6 @@
         "url": "http://gardenate.com/plant/Capsicum"
     },
     {
-        "name": "peppers",
-        "alternateName": "bell peppers",
-        "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 64¬∞F and 95¬∞F.",
-        "spaceInstructions": "Space plants: 8 - 20 inches apart",
-        "harvestInstructions": "Harvest in 10-12 weeks. Cut fruit off with sharp knife.",
-        "hardiness_zone": "8b",
-        "image": "images/.peppers.png",
-        "url": "http://gardenate.com/plant/Capsicum"
-    },
-    {
         "name": "carrots",
         "alternateName": "",
         "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 46¬∞F and 86¬∞F.",
