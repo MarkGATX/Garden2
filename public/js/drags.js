@@ -27,14 +27,12 @@ const clearGarden = async (event) => {
       event.preventDefault();
      const plots = document.querySelectorAll('.gardenPlots');
      for (i=0; i < plots.length; i++) {
-      console.log(plots[i])
       plots[i].innerHTML = ''
      }
 }
 
 const saveGarden = async (event) => {
       event.preventDefault();
-
 }
 
 document.querySelector('.clearGarden').addEventListener('click', clearGarden);
