@@ -28,6 +28,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/plants">Plants</a>
                     </li>
+                    {{#if logged_in}}
+                    <li class="nav-item">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                    {{/if}}
 
                     {{#if logged_in}}
                     <li class="nav-item"><a id="logout" class="nav-link" href="/api/user/logout">Logout</a>
