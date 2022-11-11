@@ -62,18 +62,15 @@ router.get('/:zone', async (req, res) => {
     let zonePlants = [];
     console.log(JSON.stringify(req.params.zone))
     zonePlants = await Plant.findAll({
-
         where: {
             hardiness_zone: "8b",
         }
-
     });
-
     const finalPlants = zonePlants.map((plants) =>
         plants.get({ plain: true }))
-
     res.status(200).render('home', {
-        finalPlants
+        finalPlants,
+        logged_in: req.session.logged_in,
     });
 
 })

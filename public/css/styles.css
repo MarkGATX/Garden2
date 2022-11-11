@@ -28,7 +28,8 @@ header {
 }
 
 main {
-    height:100vh;
+    min-height:100vh;
+    height:100%;
 }
 button {
     background-color:var(--light);
